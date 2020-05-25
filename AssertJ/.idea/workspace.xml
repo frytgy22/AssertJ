@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00f33f01-5069-403e-ac6c-9dd5e31cce0a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1cMdhKrDIn1L51kuSJnjgYGEi73" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="JUnit.Tests.test12">
+    <configuration name="Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AssertJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lebedeva.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.lebedeva" />
+      <option name="MAIN_CLASS_NAME" value="org.lebedeva.Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.test10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AssertJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lebedeva.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.lebedeva" />
+      <option name="MAIN_CLASS_NAME" value="org.lebedeva.Tests" />
+      <option name="METHOD_NAME" value="test10" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.test12" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AssertJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lebedeva.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.lebedeva" />
+      <option name="MAIN_CLASS_NAME" value="org.lebedeva.Tests" />
+      <option name="METHOD_NAME" value="test12" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AssertJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lebedeva.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.lebedeva" />
+      <option name="MAIN_CLASS_NAME" value="org.lebedeva.Tests" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AssertJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lebedeva.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.lebedeva" />
+      <option name="MAIN_CLASS_NAME" value="org.lebedeva.Tests" />
+      <option name="METHOD_NAME" value="test7" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Tests.test12" />
+        <item itemvalue="JUnit.Tests" />
+        <item itemvalue="JUnit.Tests.test10" />
+        <item itemvalue="JUnit.Tests.test7" />
+        <item itemvalue="JUnit.Tests.test4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00f33f01-5069-403e-ac6c-9dd5e31cce0a" name="Default Changelist" comment="" />
+      <created>1590342516237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590342516237</updated>
+      <workItem from="1590342527894" duration="2086000" />
+      <workItem from="1590381434209" duration="2667000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1151" y="328" width="374" height="568" key="#com.intellij.ide.util.MemberChooser" timestamp="1590385593428">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="1151" y="328" width="374" height="568" key="#com.intellij.ide.util.MemberChooser/0.34.1920.1046@0.34.1920.1046" timestamp="1590385593428" />
+    <state width="1233" height="219" key="GridCell.Tab.0.bottom" timestamp="1590386591081">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1233" height="219" key="GridCell.Tab.0.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1590386591081" />
+    <state width="1233" height="219" key="GridCell.Tab.0.center" timestamp="1590386591080">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1233" height="219" key="GridCell.Tab.0.center/0.34.1920.1046@0.34.1920.1046" timestamp="1590386591080" />
+    <state width="1233" height="219" key="GridCell.Tab.0.left" timestamp="1590386591079">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1233" height="219" key="GridCell.Tab.0.left/0.34.1920.1046@0.34.1920.1046" timestamp="1590386591079" />
+    <state width="1233" height="219" key="GridCell.Tab.0.right" timestamp="1590386591080">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1233" height="219" key="GridCell.Tab.0.right/0.34.1920.1046@0.34.1920.1046" timestamp="1590386591080" />
+  </component>
+</project>
